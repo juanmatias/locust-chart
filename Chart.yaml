@@ -1,0 +1,11 @@
+name: locust
+description: A modern load testing framework (based on so0k work)
+version: 0.3.0
+appVersion: 0.7.5
+maintainers:
+  - name: Juan Matias Kungfu de la Camara Beovide
+    email: juanmatias@gmail.com
+home: http://locust.io
+icon: https://pbs.twimg.com/profile_images/1867636195/locust-logo-orignal.png
+sources:
+  - https://github.com/honestbee/distributed-load-testing
