@@ -15,7 +15,7 @@ Here you can set the locust_tasks file into the values file, so to modifiy tasks
 
 ## Original doc
 
-I added here the original [README.md](./REAMDE_original.md) just in case.
+I added here the original [README.md](./README_original.md) just in case.
 
 ## Installing the chart
 
